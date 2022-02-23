@@ -1,7 +1,8 @@
 # Arsitektur-Zynq
 Tugas 1 Sistem on Chip (SoC)
 
-Dosen :prof. Trio Adiono, Ph.D,
+Dosen :prof. Trio Adiono, Ph.D.
+
 Modul:
 [Modul 1 - Arsitektur Zynq.pdf](https://github.com/Aseptrisna/Arsitektur-Zynq/files/8122794/Modul.1.-.Arsitektur.Zynq.pdf)
 
