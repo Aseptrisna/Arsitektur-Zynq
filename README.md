@@ -3,6 +3,9 @@ Tugas 1 Sistem on Chip (SoC)
 
 Dosen :prof. Trio Adiono, Ph.D.
 
+Nama :Asep Trisna Setiawan
+Nim  :23221111
+
 Modul:
 [Modul 1 - Arsitektur Zynq.pdf](https://github.com/Aseptrisna/Arsitektur-Zynq/files/8122794/Modul.1.-.Arsitektur.Zynq.pdf)
 
