@@ -3,7 +3,7 @@ Tugas 1 Sistem on Chip (SoC)
 
 Dosen :prof. Trio Adiono, Ph.D.
 
-Nama :Asep Trisna Setiawan
+Nama :Asep Trisna Setiawan <br></br>
 Nim  :23221111
 
 Modul:
